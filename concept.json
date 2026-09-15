@@ -1,0 +1,11 @@
+{
+  "slug": "sol-evm-bytebridge",
+  "name": "SOL EVM Bytebridge",
+  "kind": "evm",
+  "description": "Translate compact artifacts between Solana memo envelopes and EVM calldata records.",
+  "chain": "EVM + Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
