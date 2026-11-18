@@ -8,7 +8,7 @@ Translate compact artifacts between Solana memo envelopes and EVM calldata recor
 
 - Source: https://github.com/nirholas/sol-evm-bytebridge
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
